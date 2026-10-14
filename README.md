@@ -110,3 +110,7 @@ historical implementation. Deposited material is CC0 1.0; new code is MIT licens
 Cor, Ken and Gaurav Sood. 2016. “Guessing and Forgetting: A Latent Class Model
 for Measuring Learning.” *Political Analysis* 24(2): 226–242.
 [doi:10.1093/pan/mpw010](https://doi.org/10.1093/pan/mpw010).
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
