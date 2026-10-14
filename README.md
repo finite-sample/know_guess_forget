@@ -113,4 +113,14 @@ for Measuring Learning.” *Political Analysis* 24(2): 226–242.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [finite-sample/guess](https://github.com/finite-sample/guess) — Adjust naive estimates of learning for guessing
+- [finite-sample/know_gains](https://github.com/finite-sample/know_gains) — Measuring Learning in Informative Processes \(Luskin, Helfer, Sood\)
+- [finite-sample/know_pgap_format](https://github.com/finite-sample/know_pgap_format) — How do \(biased\) guessing encouraging features and guessing agnostic coding techniques affect the partisan gap?
+- [finite-sample/know_hidden](https://github.com/finite-sample/know_hidden) — Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+- [finite-sample/know_pgap_cues](https://github.com/finite-sample/know_pgap_cues) — Partisan cues and evaluations of the same economic information \(Roush and Sood\)
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
