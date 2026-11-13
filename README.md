@@ -88,7 +88,7 @@ All analysis code lives in `scripts/`. `99_run_all.R` loads `00_config.R` and
 | `data/*.csv`, `data/manifest.csv` | Deposited inputs and their checksums |
 | `data/benchmarks.csv` | Fixed values from the paper and deposited workflow, with manuscript page references |
 | `data/derived/prepared_data.rds` | Generated, ignored prepared polls and benchmarks |
-| `scripts/00_config.R` | Paths, poll labels, guessing probabilities, plot theme, colours, dimensions, and table defaults |
+| `scripts/00_config.R` | Paths, poll labels, guessing probabilities, plot theme, colors, dimensions, and table defaults |
 | `scripts/00_utils.R` | Shared functions for reading inputs, estimating models, and writing tables |
 | `scripts/01_prepare_data.R` | Verify and read inputs, then save prepared data |
 | `scripts/02_estimate.R` | Estimate learning, reliability, and gender gaps; compare results with benchmarks |
